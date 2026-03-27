@@ -13,3 +13,5 @@ Suurim üllatus oli asjaolu, et ettevõte siiani üldse on saanud toimida. Samut
 Lõime ühised tööriistad, rollid jaotatud ning ühiselt oleme meeskonnas läbi arutanud kõikide liikmete ülesannete teostused.
 Me soovitame tutvuda ja kasutusele võtta Supabase'i, GitHub'i ja NotebookLM'i, mis peaksid olema ettevõtte põhikeskkonnad, lihtsustamaks tulevast ettevõtte tööd.
 #### PUUDUVAD ANDMED: -
+#### NANOPARANDUS GRUPITÖÖS:
+Proovime aega planeerida kohe grupitöö alguses, et töö sujuks efektiivsemalt ja jõuaksime õigeks ajaks valmis.
