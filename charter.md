@@ -19,8 +19,6 @@
    Väljaspool sessioone me kirjutame. Vajadusel helistame chatis.
 3. Kuidas me jagame faile?
    Ühine Google Drive.
-4. Ühine nanoparandus grupitöös?
-   Proovime aega planeerida kohe grupitöö alguses, et töö sujuks efektiivsemalt ja jõuaksime õigeks ajaks valmis.
 
 ## ROLLIDE ROTATSIOON:
 * Nädal 1: A=Sille Pragi B=Sandra Salmanis C=Kätlin Kütt D=Kristjan Uibo
