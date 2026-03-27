@@ -8,7 +8,7 @@
 - **Team Charter:** GitHubis + Supabase'is -- sotsiaalne leping
 
 #### SUURIM ÜLLATUS: 
-Suurim üllatus oli team-charter'i olemasolu ja selle malli loomine.
+Suurim üllatus oli asjaolu, et ettevõte siiani üldse on saanud toimida. Samuti team-charter'i olemasolu ja selle malli loomine.
 #### SOOVITUS TOOMASELE: 
 Lõime ühised tööriistad, rollid jaotatud ning ühiselt oleme meeskonnas läbi arutanud kõikide liikmete ülesannete teostused.
 Me soovitame tutvuda ja kasutusele võtta Supabase'i, GitHub'i ja NotebookLM'i, mis peaksid olema ettevõtte põhikeskkonnad, lihtsustamaks tulevast ettevõtte tööd.
