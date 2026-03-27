@@ -14,11 +14,13 @@
 
 ## KOKKULEPPED:
 1. Kuidas me üksteist aitame, kui keegi jääb kinni?
-   Kõnes arutame ja chatis kirjutame. Proovime aega planeerida kohe grupitöö alguses, et töö sujuks efektiivsemalt ja jõuaksime õigeks ajaks valmis.
+   Kõnes arutame ja chatis kirjutame.
 2. Mis kell me kohtume väljaspool sessioone (kui üldse)?
    Väljaspool sessioone me kirjutame. Vajadusel helistame chatis.
 3. Kuidas me jagame faile?
    Ühine Google Drive.
+4. Ühine nanoparandus grupitöös?
+   Proovime aega planeerida kohe grupitöö alguses, et töö sujuks efektiivsemalt ja jõuaksime õigeks ajaks valmis.
 
 ## ROLLIDE ROTATSIOON:
 * Nädal 1: A=Sille Pragi B=Sandra Salmanis C=Kätlin Kütt D=Kristjan Uibo
