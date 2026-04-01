@@ -21,10 +21,10 @@
    Ühine Google Drive.
 
 ## ROLLIDE ROTATSIOON:
-* Nädal 1: A=Sille Pragi B=Sandra Salmanis C=Kätlin Kütt D=Kristjan Uibo
-* Nädal 2: A=Kristjan Uibo B=Sille Pragi C=Sandra Salmanis D=Kätlin Kütt
-* Nädal 3: A=Kätlin Kütt B=Kristjan Uibo C=Sille Pragi D=Sandra Salmanis
-* Nädal 4: A=Sandra Salmanis B=Kätlin Kütt C=Kristjan Uibo D=Sille Pragi
+* Nädal 0: A=Sille Pragi B=Sandra Salmanis C=Kätlin Kütt D=Kristjan Uibo
+* Nädal 1: A=Kristjan Uibo B=Sille Pragi C=Sandra Salmanis D=Kätlin Kütt
+* Nädal 2: A=Kätlin Kütt B=Kristjan Uibo C=Sille Pragi D=Sandra Salmanis
+* Nädal 3: A=Sandra Salmanis B=Kätlin Kütt C=Kristjan Uibo D=Sille Pragi
 
 ## ALLKIRJAD:
 1. Sille Pragi
