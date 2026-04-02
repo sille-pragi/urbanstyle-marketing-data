@@ -1,10 +1,10 @@
 # TEAM CHARTER — Marketing Data
 
 ## LIIKMED:
-1. Sille Pragi (OS: Windows)  Roll nädal 1: GitHub Repo Seadistaja
-2. Sandra Salmanis (OS: Windows)  Roll nädal 1: Supabase Seadistaja
-3. Kätlin Kütt (OS: Windows)  Roll nädal 1: NotebookLM Seadistaja
-4. Kristjan Uibo (OS: Linux)  Roll nädal 1: Team Charter Koostaja
+1. Sille Pragi (OS: Windows)  Roll nädal 0: GitHub Repo Seadistaja
+2. Sandra Salmanis (OS: Windows)  Roll nädal 0: Supabase Seadistaja
+3. Kätlin Kütt (OS: Windows)  Roll nädal 0: NotebookLM Seadistaja
+4. Kristjan Uibo (OS: Linux)  Roll nädal 0: Team Charter Koostaja
 
 ## ÜHISED TÖÖRIISTAD:
 * Suhtluskanal: https://chat.google.com/app/chat/AAQASkhxevY (Google Workspace Chat)
