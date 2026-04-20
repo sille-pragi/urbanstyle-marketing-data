@@ -25,6 +25,14 @@
 * Nädal 1: A=Kristjan Uibo B=Sille Pragi C=Sandra Salmanis D=Kätlin Kütt
 * Nädal 2: A=Kätlin Kütt B=Kristjan Uibo C=Sille Pragi D=Sandra Salmanis
 * Nädal 3: A=Sandra Salmanis B=Kätlin Kütt C=Kristjan Uibo D=Sille Pragi
+* Nädal 4: A=Sille Pragi B=Sandra Salmanis C=Kätlin Kütt D=Kristjan Uibo
+* Nädal 5: A=Kristjan Uibo B=Sille Pragi C=Sandra Salmanis D=Kätlin Kütt
+* Nädal 6: A=Kätlin Kütt B=Kristjan Uibo C=Sille Pragi D=Sandra Salmanis
+* Nädal 7: A=Sandra Salmanis B=Kätlin Kütt C=Kristjan Uibo D=Sille Pragi
+* Nädal 8: A=Sille Pragi B=Sandra Salmanis C=Kätlin Kütt D=Kristjan Uibo
+* Nädal 9: A=Kristjan Uibo B=Sille Pragi C=Sandra Salmanis D=Kätlin Kütt
+* Nädal 10: A=Kätlin Kütt B=Kristjan Uibo C=Sille Pragi D=Sandra Salmanis
+* Nädal 11: A=Sandra Salmanis B=Kätlin Kütt C=Kristjan Uibo D=Sille Pragi
 
 ## ALLKIRJAD:
 1. Sille Pragi
