@@ -1,9 +1,0 @@
-# This file lists all Python packages required by this project.
-# Install them with `pip install -r requirements.in`.
-# To write the list of installed packages with exact versions and dependencies
-# into another file: `pip freeze > requirements.txt`
-jupyter
-python-dotenv
-supabase
-pandas
-plotly
